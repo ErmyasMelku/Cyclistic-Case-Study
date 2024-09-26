@@ -28,7 +28,23 @@ While we cannot directly connect pass purchases to credit card information, we c
 # Observations
 How does the time of day affect the riding patterns of annual members versus casual riders?
 - From the chart, it can be observed that casual riders predominantly use bikes during the late afternoon and evening hours, peaking at 5 PM, which aligns with leisure or tourism activities. In contrast, annual members show a more balanced usage throughout the day, with higher numbers in the morning and afternoon, suggesting that they use the bikes for daily commuting or regular errands. This difference in time-based riding behavior provides valuable insight into how each group engages with the service and can inform targeted marketing strategies.
-![image](https://github.com/user-attachments/assets/8857c66f-7dfd-4776-80d0-d25dc75c2efe)
+
+![image](https://github.com/user-attachments/assets/68b15eb9-4f5e-46f5-b8b7-83712e9e6cc7)
+![image](https://github.com/user-attachments/assets/378c43d1-09d0-4239-bf7b-c3726c5f74d1)
+![image](https://github.com/user-attachments/assets/6b979f91-1262-4cad-bd5a-60a736c7874b)
+![image](https://github.com/user-attachments/assets/9f5132c2-ec11-49f7-bd68-221861f8ee11)
+
+Next Steps 
+1. Seasonal Marketing Campaigns:
+- Winter-Themed Promotions: Create targeted marketing campaigns specifically designed for the winter months, highlighting the benefits of bike commuting or indoor cycling during colder weather. Offer seasonal discounts or promotions to encourage continued usage.
+Partner with Local Businesses: Collaborate with local businesses to provide exclusive offers or discounts for Cyclistic members during the winter months, such as discounts on winter gear or indoor cycling classes.
+2. Community Building and Engagement:
+- Weekday Group Rides: Organize and promote regular weekday group rides that cater to commuters and those who prefer to ride during the week. Partner with local organizations or businesses to offer social events or networking opportunities after the rides.
+Online Communities: Foster a sense of community through online platforms, such as social media groups or forums, where riders can connect, share experiences, and participate in virtual challenges or competitions.
+3. Expanding Geographical Reach:
+- Neighborhood Assessments: Conduct a thorough assessment of neighboring neighborhoods to identify areas with high potential for bike-sharing usage. Consider factors such as population density, proximity to popular destinations, and existing transportation infrastructure.
+Strategic Expansion: Develop a phased expansion plan to introduce Cyclistic bikes to new neighborhoods, starting with areas that have a strong demand for alternative transportation options and a high likelihood of attracting new members.
+Partnership with Local Authorities: Collaborate with local authorities to secure permits and permissions for expanding the fleet into new areas, ensuring a smooth and efficient rollout process.
 # Key Findings
 - Seasonal Patterns: Both member and casual riders exhibit strong seasonal patterns, with peak usage during the warmer months and lower usage during the colder months.
 - Member Dominance: Members consistently outnumber casual riders, suggesting that a significant portion of the user base is comprised of regular users.
