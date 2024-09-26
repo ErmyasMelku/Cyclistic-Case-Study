@@ -25,6 +25,9 @@ While we cannot directly connect pass purchases to credit card information, we c
 - Identifying and resolving missing start and end station names using targeted SQL queries to ensure accurate trip tracking.
 - Verifying the integrity of additional columns by cross-referencing data with validation queries.
 - Detecting and addressing ride duration anomalies, such as negative or zero values, by running specialized queries to maintain data consistency and accuracy.
+
+![image](https://github.com/user-attachments/assets/0cf29969-08f2-4049-a343-70b2b5d15a21)
+  
 # Observations
 How does the time of day affect the riding patterns of annual members versus casual riders?
 - From the chart, it can be observed that casual riders predominantly use bikes during the late afternoon and evening hours, peaking at 5 PM, which aligns with leisure or tourism activities. In contrast, annual members show a more balanced usage throughout the day, with higher numbers in the morning and afternoon, suggesting that they use the bikes for daily commuting or regular errands. This difference in time-based riding behavior provides valuable insight into how each group engages with the service and can inform targeted marketing strategies.
