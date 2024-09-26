@@ -1,12 +1,13 @@
 # Table of Contents
 1. [Cyclistic-Case-Study](#Cyclistic-Case-Study)
 2. [Company Overview](#Company-Overview)
-3. [Cyclistic-Case-Study](#Cyclistic-Case-Study) 
-4. [Cyclistic-Case-Study](#Cyclistic-Case-Study) 
-5. [Cyclistic-Case-Study](#Cyclistic-Case-Study) 
-6. [Cyclistic-Case-Study](#Cyclistic-Case-Study) 
-7. [Cyclistic-Case-Study](#Cyclistic-Case-Study) 
-8. [Cyclistic-Case-Study](#Cyclistic-Case-Study) 
+3. [Project Objective](#Project-Objective) 
+4. [Scenario](#Scenario) 
+5. [Engagement Questions](#Engagement-Questions) 
+6. [Analysis Preparation](#Analysis-Preparation) 
+7. [Observations](#Observations) 
+8. [Key Findings](#Key-Findings)
+9. [Final Recommendations](Final-Recommendations)
 
 # Cyclistic-Case-Study
 Worked as a data analyst with the goal to develop targeted marketing strategies to increase annual memberships and drive revenue growth. Utilized Excel, SQL, and Tableau to develop these strategies.
@@ -27,7 +28,7 @@ By analyzing historical bike trip data, I'll aim to identify patterns and insigh
 - What are the key factors that differentiate the usage patterns of annual members and casual riders?
 - What are the primary motivations and barriers that influence casual riders' decisions to purchase annual memberships?
 - How can Cyclistic effectively leverage digital media channels to target casual riders and persuade them to become annual members?
-# Preperation
+# Analysis Preparation
 To gain insights into Cyclistic's rider behavior, I'll be analyzing historical trip data from January 2022 to December 2022, provided by Motivate International Inc. This publicly available dataset offers valuable information about bike usage patterns, but due to privacy restrictions, we cannot track individual riders' personal details.
 
 While we cannot directly connect pass purchases to credit card information, we can still explore trends and patterns in the data to understand the differences between casual riders and annual members. This analysis will provide valuable insights for developing targeted marketing strategies to increase annual memberships and drive long-term growth.
@@ -64,7 +65,7 @@ Partnership with Local Authorities: Collaborate with local authorities to secure
 - Usage Purposes: Members primarily use the service for commuting and errands, while casual riders tend to use it for leisure activities and exploration.
 - Weekday vs. Weekend Usage: Members have a more pronounced weekday usage pattern, while casual riders exhibit a stronger weekend usage pattern.
 - Growth: The bike-sharing service is gaining popularity, as evidenced by the increasing number of members and overall rides.
-# Recommendations
+# Final Recommendations
 - Targeted Marketing: The company can tailor its marketing efforts to specific user groups based on their usage patterns. For example, they could offer promotions or incentives to encourage casual riders to become members during the off-peak seasons.
 - Infrastructure Planning: Understanding the peak usage periods and locations can help the company optimize infrastructure planning, such as the placement of bike stations and the allocation of resources.
 - Member Retention: Implementing strategies to retain members, such as loyalty programs or exclusive benefits, can contribute to long-term sustainability.
